@@ -1,10 +1,12 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2013.1.30)  27 FEB 2013 18:25
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2013.1.30)  27 FEB 2013 19:00
 entering extended mode
-**//smbhome.uscs.susx.ac.uk/aw301/Documents/lecture*notes/Course*in*group*rep.t
-ex
+**C:/Users/aw301/AppData/Local/Apps/2.0/ZNBRC4E2.NGB/C78Q9RMR.338/gith..tion_8f
+45a2159c87c850_0001.0000_f67358978db19780/smbhome.uscs.susx.ac.uk/aw301/Documen
+ts/GitHub/Lecture-Notes/Course*in*group*rep.tex
 
-("//smbhome.uscs.susx.ac.uk/aw301/Documents/lecture notes/Course in group rep.t
-ex"
+("C:/Users/aw301/AppData/Local/Apps/2.0/ZNBRC4E2.NGB/C78Q9RMR.338/gith..tion_8f
+45a2159c87c850_0001.0000_f67358978db19780/smbhome.uscs.susx.ac.uk/aw301/Documen
+ts/GitHub/Lecture-Notes/Course in group rep.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -173,8 +175,18 @@ Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
 \c@summary=\count120
 \c@theorem=\count121
 
-("\\smbhome.uscs.susx.ac.uk\aw301\Documents\lecture notes\Course in group rep.a
-ux")
+("C:\Users\aw301\AppData\Local\Apps\2.0\ZNBRC4E2.NGB\C78Q9RMR.338\gith..tion_8f
+45a2159c87c850_0001.0000_f67358978db19780\smbhome.uscs.susx.ac.uk\aw301\Documen
+ts\GitHub\Lecture-Notes\Course in group rep.aux"
+(C:\Users\aw301\AppData\Local\Apps\2.0\ZNBRC4E2.NGB\C78Q9RMR.338\gith..tion_8f4
+5a2159c87c850_0001.0000_f67358978db19780\smbhome.uscs.susx.ac.uk\aw301\Document
+s\GitHub\Lecture-Notes\abstract.aux)
+(C:\Users\aw301\AppData\Local\Apps\2.0\ZNBRC4E2.NGB\C78Q9RMR.338\gith..tion_8f4
+5a2159c87c850_0001.0000_f67358978db19780\smbhome.uscs.susx.ac.uk\aw301\Document
+s\GitHub\Lecture-Notes\Introduction.aux)
+(C:\Users\aw301\AppData\Local\Apps\2.0\ZNBRC4E2.NGB\C78Q9RMR.338\gith..tion_8f4
+5a2159c87c850_0001.0000_f67358978db19780\smbhome.uscs.susx.ac.uk\aw301\Document
+s\GitHub\Lecture-Notes\grouprep1.aux))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 67.
 LaTeX Font Info:    ... okay on input line 67.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 67.
@@ -188,7 +200,8 @@ LaTeX Font Info:    ... okay on input line 67.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 67.
 LaTeX Font Info:    ... okay on input line 67.
 LaTeX Font Info:    Try loading font information for U+msa on input line 67.
- ("C:\Program Files\Miktex\tex\latex\amsfonts\umsa.fd"
+
+("C:\Program Files\Miktex\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 67.
@@ -209,7 +222,12 @@ File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 \MPnumerator=\count126
 \makeMPintoPDFobject=\count127
 \everyMPtoPDFconversion=\toks27
-) [1
+)
+(C:\Users\aw301\AppData\Local\Apps\2.0\ZNBRC4E2.NGB\C78Q9RMR.338\gith..tion_8f4
+5a2159c87c850_0001.0000_f67358978db19780\smbhome.uscs.susx.ac.uk\aw301\Document
+s\GitHub\Lecture-Notes\abstract.tex) [1
+
+
 
 
 
@@ -217,32 +235,43 @@ File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
 Contents
 
-("\\smbhome.uscs.susx.ac.uk\aw301\Documents\lecture notes\Course in group rep.t
-oc")
+("C:\Users\aw301\AppData\Local\Apps\2.0\ZNBRC4E2.NGB\C78Q9RMR.338\gith..tion_8f
+45a2159c87c850_0001.0000_f67358978db19780\smbhome.uscs.susx.ac.uk\aw301\Documen
+ts\GitHub\Lecture-Notes\Course in group rep.toc")
 \tf@toc=\write3
  [3
 
 
-] [4
+]
+(C:\Users\aw301\AppData\Local\Apps\2.0\ZNBRC4E2.NGB\C78Q9RMR.338\gith..tion_8f4
+5a2159c87c850_0001.0000_f67358978db19780\smbhome.uscs.susx.ac.uk\aw301\Document
+s\GitHub\Lecture-Notes\Introduction.tex [4
+
 
 
 ]
 Introduction
-[5] [6
+) [5] [6
+
 
 
 ] [1
 
 
-] [2
+]
+(C:\Users\aw301\AppData\Local\Apps\2.0\ZNBRC4E2.NGB\C78Q9RMR.338\gith..tion_8f4
+5a2159c87c850_0001.0000_f67358978db19780\smbhome.uscs.susx.ac.uk\aw301\Document
+s\GitHub\Lecture-Notes\grouprep1.tex [2
+
 
 
 ]
 Chapter 1
-LaTeX Font Info:    Try loading font information for U+euf on input line 100.
+LaTeX Font Info:    Try loading font information for U+euf on input line 8.
 ("C:\Program Files\Miktex\tex\latex\amsfonts\ueuf.fd"
 File: ueuf.fd 2009/06/22 v3.00 Euler Fraktur
-) [3] [4
+)) [3] [4
+
 
 
 ]
@@ -261,33 +290,43 @@ Appendix B
 ]
 Bibliography
 [9]
-("\\smbhome.uscs.susx.ac.uk\aw301\Documents\lecture notes\Course in group rep.a
-ux") ) 
+("C:\Users\aw301\AppData\Local\Apps\2.0\ZNBRC4E2.NGB\C78Q9RMR.338\gith..tion_8f
+45a2159c87c850_0001.0000_f67358978db19780\smbhome.uscs.susx.ac.uk\aw301\Documen
+ts\GitHub\Lecture-Notes\Course in group rep.aux"
+(C:\Users\aw301\AppData\Local\Apps\2.0\ZNBRC4E2.NGB\C78Q9RMR.338\gith..tion_8f4
+5a2159c87c850_0001.0000_f67358978db19780\smbhome.uscs.susx.ac.uk\aw301\Document
+s\GitHub\Lecture-Notes\abstract.aux)
+(C:\Users\aw301\AppData\Local\Apps\2.0\ZNBRC4E2.NGB\C78Q9RMR.338\gith..tion_8f4
+5a2159c87c850_0001.0000_f67358978db19780\smbhome.uscs.susx.ac.uk\aw301\Document
+s\GitHub\Lecture-Notes\Introduction.aux)
+(C:\Users\aw301\AppData\Local\Apps\2.0\ZNBRC4E2.NGB\C78Q9RMR.338\gith..tion_8f4
+5a2159c87c850_0001.0000_f67358978db19780\smbhome.uscs.susx.ac.uk\aw301\Document
+s\GitHub\Lecture-Notes\grouprep1.aux)) ) 
 Here is how much of TeX's memory you used:
- 2612 strings out of 494045
- 31041 string characters out of 3149900
- 81948 words of memory out of 3000000
- 5736 multiletter control sequences out of 15000+200000
+ 2635 strings out of 494045
+ 35702 string characters out of 3149900
+ 84706 words of memory out of 3000000
+ 5739 multiletter control sequences out of 15000+200000
  14998 words of font info for 58 fonts, out of 3000000 for 9000
  876 hyphenation exceptions out of 8191
- 34i,5n,26p,665b,189s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/Miktex/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
-ogram Files/Miktex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/
-Miktex/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/Miktex/font
-s/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/Miktex/fonts/type1/publ
-ic/amsfonts/cm/cmmi12.pfb><C:/Program Files/Miktex/fonts/type1/public/amsfonts/
-cm/cmmi8.pfb><C:/Program Files/Miktex/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-<C:/Program Files/Miktex/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program F
-iles/Miktex/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/Miktex/f
-onts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/Miktex/fonts/type1/pub
-lic/amsfonts/cm/cmr8.pfb><C:/Program Files/Miktex/fonts/type1/public/amsfonts/c
-m/cmr9.pfb><C:/Program Files/Miktex/fonts/type1/public/amsfonts/cm/cmsy10.pfb><
-C:/Program Files/Miktex/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program F
-iles/Miktex/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/Miktex/
-fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:/Program Files/Miktex/fonts/type1/
-public/amsfonts/euler/eufm10.pfb><C:/Program Files/Miktex/fonts/type1/public/am
-sfonts/symbols/msbm10.pfb>
-Output written on "Course in group rep.pdf" (15 pages, 200209 bytes).
+ 34i,6n,27p,457b,189s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/Miktex/fonts/type1/pu
+blic/amsfonts/cm/cmbx10.pfb><C:/Program Files/Miktex/fonts/type1/public/amsfont
+s/cm/cmbx12.pfb><C:/Program Files/Miktex/fonts/type1/public/amsfonts/cm/cmcsc10
+.pfb><C:/Program Files/Miktex/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Pro
+gram Files/Miktex/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/M
+iktex/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/Miktex/fonts/t
+ype1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/Miktex/fonts/type1/public/a
+msfonts/cm/cmr12.pfb><C:/Program Files/Miktex/fonts/type1/public/amsfonts/cm/cm
+r17.pfb><C:/Program Files/Miktex/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Pr
+ogram Files/Miktex/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/Mi
+ktex/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files/Miktex/fonts/typ
+e1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/Miktex/fonts/type1/public/am
+sfonts/cm/cmti10.pfb><C:/Program Files/Miktex/fonts/type1/public/amsfonts/cm/cm
+ti12.pfb><C:/Program Files/Miktex/fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:
+/Program Files/Miktex/fonts/type1/public/amsfonts/euler/eufm10.pfb><C:/Program 
+Files/Miktex/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on "Course in group rep.pdf" (15 pages, 200970 bytes).
 PDF statistics:
  123 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

@@ -1,0 +1,31 @@
+\chapter{Group Theory Prerequisites}
+
+In this chapter, we are introducing the basic group theoretical notions required for this course.
+We are going to focus on the Symmetric Group in particular.
+This chapter is based on~\cite{Grillet}, in particular chapter I.1 and II.4.
+We will assume familiarity with the basic group theoretical definitions.
+As a reminder, $S_n$ consists of all bijections from $\mathbb{Z}_n$ to itself, using composition as the group operation.
+Throughout the course, G is written multiplicatively with identity $\mathfrak{e}$.
+\begin{definition}
+Let $a,b\in\mathbb{Z}_n$, $a\neq b$.
+The \emph{transposition} $\tau=(a\;b)$ is the permutation defined by $\tau a=b,\;\tau b=a$ and $\tau x=x$ for all $x\neq a,b$.
+\end{definition}
+\begin{proposition}
+Every permutation $\pi\in S_n$ is the product of transpositions.
+\end{proposition}
+The proof is not important for the course and left as an exercise.
+\begin{exercise}
+Show that $(1;2),(2\;3),\ldots,(n-1\;n)$ form a basis and, indeed, generate $S_n$.
+\end{exercise}
+\footnote{could include Braid groups? maybe as an alternative to $\pi_0$? Certainly easier to do questions for the exam with.}
+If $\pi$ is a permutation, there are three different notations we can use.
+The \emph{two line notation} is probably the most common and is as follows:
+\begin{equation*}
+\pi=
+\begin{array}{cccc}
+1&2&\ldots &n\\
+\pi(1)&\pi(2)&\ldots&\pi(n)
+\end{array}
+\end{equation*}
+In order to get the \emph{one line notation}, we drop the first line, as it is fixed.
+We can also display $\pi$ using \emph{cycle notation}.

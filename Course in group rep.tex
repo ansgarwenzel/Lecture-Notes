@@ -80,36 +80,17 @@ University of Sussex}%
 %\thanks{The Author thanks J. Smith}
 %\subjclass{Primary 05C38, 15A15; Secondary 05A15, 15A18}
 %\dedicatory{Dedicated to Professor XY}
-
-\begin{abstract}
-This is a short introduction to Group Theory and represents the second part of the course \emph{Group Theory II} at the University of Sussex.\end{abstract}
+\include{abstract}
 \maketitle
 \tableofcontents
 
 
-\chapter*{Introduction}
-
-\markboth{PREFACE}{PREFACE} This comprises the lecture notes for the second part of the course \emph{Group Theory II}. It is based mainly on~\cite{Sagan}, in particular Chapters 1 and 2, as well as lecture notes of a course the author took a few years ago.
-
+\include{Introduction}
 \mainmatter
 
 \part{Group Representations}
 
-\chapter{Group Theory Prerequisites}
-
-In this chapter, we are introducing the basic group theoretical notions required for this course. We are going to focus on the Symmetric Group in particular. This chapter is based on~\cite{Grillet}, in particular chapter I.1 and II.4. We will assume familiarity with the basic group theoretical definitions. As a reminder, $S_n$ consists of all bijections from $\mathbb{Z}_n$ to itself, using composition as the group operation. Throughout the course, G is written multiplicatively with identity $\mathfrak{e}$.
-\begin{definition}
-Let $a,b\in\mathbb{Z}_n$, $a\neq b$. The \emph{transposition} $\tau=(a\;b)$ is the permutation defined by $\tau a=b,\;\tau b=a$ and $\tau x=x$ for all $x\neq a,b$.
-\end{definition}
-\begin{proposition}
-Every permutation $\pi\in S_n$ is the product of transpositions.
-\end{proposition}
-The proof is not important for the course and left as an exercise.
-\begin{exercise}
-Show that $(1;2),(2\;3),\ldots,(n-1\;n)$ form a basis and, indeed, generate $S_n$.
-\end{exercise}
-\footnote{could include Braid groups? maybe as an alternative to $\pi_0$? Certainly easier to do questions for the exam with.}
-
+\include{grouprep1}
 
 \backmatter \appendix
 
