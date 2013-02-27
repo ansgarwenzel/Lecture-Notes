@@ -1,0 +1,127 @@
+%% Based on a TeXnicCenter-Template by Gyorgy SZEIDL.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------
+%
+\documentclass[a4paper,12pt,reqno]{amsbook}%
+%
+%----------------------------------------------------------
+% This is a sample document for the AMS LaTeX Book or Monograph Class
+% Class options
+%       --  Body text point size:
+%                        8pt, 9pt, 10pt (default), 11pt, 12pt
+%       --  Paper size:  letterpaper (8.5x11 inch, default), a4paper
+%       --  Orientation: portrait(default), landscape
+%       --  Print side:  oneside, twoside (default)
+%       --  Quality:     final(default), draft
+%       --  Title page:  titlepage, notitlepage
+%       --  Start chapter on left:
+%                        openright (no, default), openany
+%       --  Columns:     onecolumn (default), twocolumn
+%       --  Omit extra math features:
+%                        nomath
+%       --  AMS fonts (noamasfonts available):
+%                        noamsfonts
+%       --  PSAMSfonts (fewer AMSfontsizes)
+%                        psamsfonts
+%       --  Equation numbering (equation numbers on the left is the default)
+%                        leqno (default), reqno
+%       --  Equation centering (equations centered is the default)
+%                        centeredtags (default}, tbtags (top, bottom)
+%       --  Displayed equations (centered is the default)
+%                        fleqn (flush left)
+% For instance the command
+%          \documentclass[a4paper,12p,reqno]{amsbook}
+% ensures that the paper size is a4, fonts are typeset at the size 12p
+% and the equation numbers are on the right side.
+%
+\usepackage{amsmath}%
+\usepackage{amsfonts}%
+\usepackage{amssymb}%
+\usepackage{graphicx}
+%----------------------------------------------------------
+\theoremstyle{plain}
+\newtheorem{acknowledgement}{Acknowledgement}
+\newtheorem{algorithm}{Algorithm}
+\newtheorem{axiom}{Axiom}
+\newtheorem{case}{Case}
+\newtheorem{claim}{Claim}
+\newtheorem{conclusion}{Conclusion}
+\newtheorem{condition}{Condition}
+\newtheorem{conjecture}{Conjecture}
+\newtheorem{corollary}{Corollary}
+\newtheorem{criterion}{Criterion}
+\newtheorem{definition}{Definition}
+\newtheorem{example}{Example}
+\newtheorem{exercise}{Exercise}
+\newtheorem{lemma}{Lemma}
+\newtheorem{notation}{Notation}
+\newtheorem{problem}{Problem}
+\newtheorem{proposition}{Proposition}
+\newtheorem{remark}{Remark}
+\newtheorem{solution}{Solution}
+\newtheorem{summary}{Summary}
+\newtheorem{theorem}{Theorem}
+\numberwithin{equation}{section}
+%-----------------------------------------------------------
+\begin{document}
+\frontmatter
+\title[Group Representation Theory]{A (very) short introduction to Group Representation Theory}
+\author[A. Wenzel]{Ansgar Wenzel}
+\address[]{Chichester, 3R400%
+\hspace*{\fill}\linebreak\indent%
+University of Sussex}%
+%\curraddr[P. Carlson]{Author One, current address, line 1
+%\hspace*{\fill}\linebreak
+%\indent Author One, current address, line 2}%
+\email[]{a.wenzel@sussex.ac.uk}
+%\urladdr{http://www.authorone.uni-aone.de}
+%\author{Name of the Second Author}
+%\thanks{The Author thanks J. Smith}
+%\subjclass{Primary 05C38, 15A15; Secondary 05A15, 15A18}
+%\dedicatory{Dedicated to Professor XY}
+
+\begin{abstract}
+This is a short introduction to Group Theory and represents the second part of the course \emph{Group Theory II} at the University of Sussex.\end{abstract}
+\maketitle
+\tableofcontents
+
+
+\chapter*{Introduction}
+
+\markboth{PREFACE}{PREFACE} This comprises the lecture notes for the second part of the course \emph{Group Theory II}. It is based mainly on~\cite{Sagan}, in particular Chapters 1 and 2, as well as lecture notes of a course the author took a few years ago.
+
+\mainmatter
+
+\part{Group Representations}
+
+\chapter{Group Theory Prerequisites}
+
+In this chapter, we are introducing the basic group theoretical notions required for this course. We are going to focus on the Symmetric Group in particular. This chapter is based on~\cite{Grillet}, in particular chapter I.1 and II.4. We will assume familiarity with the basic group theoretical definitions. As a reminder, $S_n$ consists of all bijections from $\mathbb{Z}_n$ to itself, using composition as the group operation. Throughout the course, G is written multiplicatively with identity $\mathfrak{e}$.
+\begin{definition}
+Let $a,b\in\mathbb{Z}_n$, $a\neq b$. The \emph{transposition} $\tau=(a\;b)$ is the permutation defined by $\tau a=b,\;\tau b=a$ and $\tau x=x$ for all $x\neq a,b$.
+\end{definition}
+\begin{proposition}
+Every permutation $\pi\in S_n$ is the product of transpositions.
+\end{proposition}
+The proof is not important for the course and left as an exercise.
+\begin{exercise}
+Show that $(1;2),(2\;3),\ldots,(n-1\;n)$ form a basis and, indeed, generate $S_n$.
+\end{exercise}
+\footnote{could include Braid groups? maybe as an alternative to $\pi_0$? Certainly easier to do questions for the exam with.}
+
+
+\backmatter \appendix
+
+\chapter{The First Appendix}
+
+
+\chapter{The Second Appendix}
+
+
+\begin{thebibliography}{9}
+\bibitem{Sagan} \textsc{Bruce E. Sagan}:\ \textit{The Symmetric Group - Representations, Combinatorial Algorithms and Symmetric Functions}, \textbf{Springer Verlag}, New York, 2001.
+\bibitem{Grillet} \textsc{Pierre Antoine Grillet}:\ \textit{Abstract Algebra}, \textbf{Springer Science and Media}, New York, 2007.
+\end{thebibliography}
+
+\end{document}
